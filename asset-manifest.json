@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/internet-shop_react/static/css/main.503dfd15.css",
-    "main.js": "/internet-shop_react/static/js/main.becc4c16.js",
+    "main.js": "/internet-shop_react/static/js/main.74494da7.js",
     "static/media/top_brand_img.png": "/internet-shop_react/static/media/top_brand_img.7f59d64725ada0329567.png",
     "static/media/for_accesories.png": "/internet-shop_react/static/media/for_accesories.1e78d5e83c8fb59474c5.png",
     "static/media/photo_subscribe.jpg": "/internet-shop_react/static/media/photo_subscribe.5bd3c8e49f16a5b253cb.jpg",
@@ -29,10 +29,10 @@
     "static/media/carousel_button_bg.svg": "/internet-shop_react/static/media/carousel_button_bg.ac73abc99509c72bd7fa.svg",
     "static/media/top_brand_title.svg": "/internet-shop_react/static/media/top_brand_title.9252631213bca10d2fc0c4afb63bbc78.svg",
     "main.503dfd15.css.map": "/internet-shop_react/static/css/main.503dfd15.css.map",
-    "main.becc4c16.js.map": "/internet-shop_react/static/js/main.becc4c16.js.map"
+    "main.74494da7.js.map": "/internet-shop_react/static/js/main.74494da7.js.map"
   },
   "entrypoints": [
     "static/css/main.503dfd15.css",
-    "static/js/main.becc4c16.js"
+    "static/js/main.74494da7.js"
   ]
 }
